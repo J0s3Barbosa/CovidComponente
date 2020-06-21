@@ -1,0 +1,2 @@
+# CovidComponente
+webscraping component
