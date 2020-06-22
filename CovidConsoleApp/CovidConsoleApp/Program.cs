@@ -1,9 +1,6 @@
-﻿using CovidComponent.Interfaces;
-using CrossCutting;
+﻿using CrossCutting;
 using Microsoft.Extensions.DependencyInjection;
-using Services.Domain.Entities;
 using System;
-using System.Collections.Generic;
 
 namespace CovidConsoleApp
 {

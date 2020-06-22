@@ -1,0 +1,11 @@
+﻿Story: Get latests covid19 numbers from website
+run the the app
+get data
+display to user
+
+Given 
+When 
+Then 
+And 
+
+
